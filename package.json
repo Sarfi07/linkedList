@@ -1,0 +1,22 @@
+{
+  "name": "@sarfi07/linkedlist",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Linked List data structure.",
+  "main": "linkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarfi07/linkedList.git"
+  },
+  "keywords": [
+    "LinkedList"
+  ],
+  "author": "Sarfaroj Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarfi07/linkedList/issues"
+  },
+  "homepage": "https://github.com/Sarfi07/linkedList#readme"
+}
